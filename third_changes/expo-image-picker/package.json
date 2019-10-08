@@ -1,0 +1,70 @@
+{
+  "_from": "expo-image-picker@^5.0.2",
+  "_id": "expo-image-picker@5.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-6Lf0rd21JhcOxL0ThL0VLewaR0w8SZ/49FYFsyx/XGpo6CSqu9AOZrS11BnVqlwHPaiS4OPsFSlO4IhEF72mFQ==",
+  "_location": "/expo-image-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "expo-image-picker@^5.0.2",
+    "name": "expo-image-picker",
+    "escapedName": "expo-image-picker",
+    "rawSpec": "^5.0.2",
+    "saveSpec": null,
+    "fetchSpec": "^5.0.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/expo-image-picker/-/expo-image-picker-5.0.2.tgz",
+  "_shasum": "975ef46bc614d471f01e6de0b2db42e55aab4a56",
+  "_spec": "expo-image-picker@^5.0.2",
+  "_where": "/Users/heyanbei/Desktop/tmp/taro-native-shell",
+  "author": {
+    "name": "650 Industries, Inc."
+  },
+  "bugs": {
+    "url": "https://github.com/expo/expo/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Provides access to the system's UI for selecting images and videos from the phone's library or taking a photo with the camera.",
+  "devDependencies": {
+    "expo-module-scripts": "^1.0.0"
+  },
+  "gitHead": "f213c9be2a909dae42a0a27d8aa4b9eac8e97be1",
+  "homepage": "https://docs.expo.io/versions/latest/sdk/imagepicker/",
+  "jest": {
+    "preset": "expo-module-scripts"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "image",
+    "picker",
+    "image-picker"
+  ],
+  "license": "MIT",
+  "main": "build/ImagePicker.js",
+  "name": "expo-image-picker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/expo/expo.git"
+  },
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "expo-module": "expo-module",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "test": "expo-module test"
+  },
+  "sideEffects": false,
+  "types": "build/ImagePicker.d.ts",
+  "unimodulePeerDependencies": {
+    "@unimodules/core": "*"
+  },
+  "version": "5.0.2"
+}
