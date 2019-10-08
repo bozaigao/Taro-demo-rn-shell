@@ -1,0 +1,55 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+	package
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:11-45
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:1:1-16:12
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:4:5-15:19
+provider#expo.modules.imagepicker.ImagePickerFileProvider
+ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:6:9-14:20
+	android:grantUriPermissions
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:10:13-47
+	android:authorities
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:8:13-75
+	android:exported
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:9:13-37
+	android:name
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:7:13-52
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:11:13-13:57
+	android:resource
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:13:17-55
+	android:name
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml:12:17-67
+uses-sdk
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+		ADDED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/heyanbei/Desktop/tmp/YaoRenDangGui_Taro/rn原生/YaoRenDangGui_Taro/node_modules/expo-image-picker/android/src/main/AndroidManifest.xml
